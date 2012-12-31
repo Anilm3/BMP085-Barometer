@@ -1,0 +1,7 @@
+BMP085	KEYWORD1
+begin	KEYWORD2
+end	KEYWORD2
+read	KEYWORD2
+readTemperature	KEYWORD2
+readPressure	KEYWORD2
+readAltitude	KEYWORD2

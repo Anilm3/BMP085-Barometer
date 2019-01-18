@@ -10,7 +10,7 @@
 *********************************************************************************/
 
 #include <BMP085.h>
-#include <Wire.h>"
+#include <Wire.h>
 
 int BMP085::writeRegister(byte reg_addr, int nbytes, byte *buffer)
 {
